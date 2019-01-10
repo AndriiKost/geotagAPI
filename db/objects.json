@@ -1,0 +1,1345 @@
+{
+      "features" : [ {
+        "geometry" : {
+          "coordinates" : [ -89.38472807407379, 43.07334730355585 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "22 S. Carroll St., Madison, WI 53703",
+          "artistName" : "Barbara Vater",
+          "id" : "1D",
+          "link" : "https://buckyonparade.com/product/class-act-2/",
+          "locationName" : "Best Western Premier Park Hotel",
+          "name" : "Class Act",
+          "sponsor" : "Park Hotel"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.38309939999999, 43.0734827 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "110 Martin Luther King Jr. Blvd",
+          "artistName" : "Kari Fisher",
+          "id" : "2D",
+          "imgFileName" : "Ringo_Front.jpg",
+          "link" : "https://buckyonparade.com/product/ringo/",
+          "locationName" : "",
+          "name" : "Ringo",
+          "sponsor" : "Greater Madison Convention & Visitors Bureau Board of Directors"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.38421308994292, 43.074577731698845 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "2 E Main St, Madison, WI 53703",
+          "artistName" : "Yvette Pino",
+          "id" : "3D",
+          "imgFileName" : "Every-Veteran-Is-A-Story_Front.jpg",
+          "link" : "https://buckyonparade.com/product/every-veteran-is-a-story-2/",
+          "locationName" : "Wisconsin State Capitol (indoor)",
+          "name" : "Every Veteran is a Story",
+          "sponsor" : "J&K Security Solutions"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.38419699668884, 43.07485986460653 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "2 E Main St, Madison, WI 53703",
+          "artistName" : "Michael Roberts",
+          "id" : "4D",
+          "imgFileName" : "Sconnie-B-Goode_Front.jpg",
+          "link" : "https://buckyonparade.com/product/sconnie-b-goode/",
+          "locationName" : "Wisconsin State Capitol (indoor)",
+          "name" : "Sconnie B. Goode",
+          "sponsor" : "Badger Bus est. 1920"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.38407897949219, 43.07395076503135 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "2 E Main St, Madison, WI 53703",
+          "artistName" : "S. V. Medaris",
+          "id" : "5D",
+          "imgFileName" : "Wisconsin-Colors_Front.jpg",
+          "link" : "https://buckyonparade.com/product/wisconsin-colors-2/",
+          "locationName" : "Wisconsin State Capitol",
+          "name" : "Wisconsin Colors",
+          "sponsor" : "Alliant Energy"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.38324749469757, 43.074867701613215 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "2 E Main St, Madison, WI 53703",
+          "artistName" : "Christy Rasmussen",
+          "id" : "6D",
+          "imgFileName" : "Bucky-on-Guard_Front.jpg",
+          "link" : "https://buckyonparade.com/product/bucky-on-guard-2/",
+          "locationName" : "Wisconsin State Capitol",
+          "name" : "Mascot on Guard",
+          "sponsor" : "TWO MEN AND A TRUCK"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.38427746295929, 43.075420208057615 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "2 E Main St, Madison, WI 53703",
+          "artistName" : "Filament Games",
+          "id" : "7D",
+          "imgFileName" : "Bucky-exe_Front.jpg",
+          "link" : "https://buckyonparade.com/product/bucky-exe/",
+          "locationName" : "Wisconsin State Capitol",
+          "name" : "Mascot.exe",
+          "sponsor" : "UW Credit Union"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.3840306997299, 43.07541628958972 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "2 E Main St, Madison, WI 53703",
+          "artistName" : "Emily J Wirkus",
+          "id" : "8D",
+          "imgFileName" : "Lucky-Bucky_Front.jpg",
+          "link" : "https://buckyonparade.com/product/lucky-bucky/",
+          "locationName" : "Wisconsin State Capitol",
+          "name" : "Lucky Mascot",
+          "sponsor" : "Underwood Events"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.3843150138855, 43.07397819495721 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "2 E Main St, Madison, WI 53703",
+          "artistName" : "Hannah Sandvold",
+          "id" : "9D",
+          "imgFileName" : "Gemtlichkeit_Front.jpg",
+          "link" : "https://buckyonparade.com/product/gemutlichkeit/",
+          "locationName" : "Wisconsin State Capitol",
+          "name" : "Gemütlichkeit",
+          "sponsor" : "Travel Wisconsin"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.382376, 43.0766121 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "1 N. Webster St.",
+          "artistName" : "Kim Marie",
+          "id" : "10D",
+          "imgFileName" : "5th-Quarter_Front.jpg",
+          "link" : "https://buckyonparade.com/product/5th-quarter-2/",
+          "locationName" : "AC Hotel by Marriott (indoor)",
+          "name" : "After The Game",
+          "sponsor" : "Lands' End"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.38211560249329, 43.07279869705801 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "210 Martin Luther King Jr Blvd, Madison, WI 53703",
+          "artistName" : "Julie Hustad",
+          "id" : "11D",
+          "imgFileName" : "Bucky-Energized_Front.jpg",
+          "link" : "https://buckyonparade.com/product/bucky-energized/",
+          "locationName" : "City County Building",
+          "name" : "Mascot Energized!",
+          "sponsor" : "Madison Gas and Electric Foundation"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.3805435, 43.0727363 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "9 E. Wilson St., Madison, WI 53703",
+          "artistName" : "James McKiernan",
+          "id" : "12D",
+          "imgFileName" : "A-Taste-Of-Madison_Front.jpg",
+          "link" : "https://buckyonparade.com/product/a-taste-of-madison/",
+          "locationName" : "Hilton Madison Monona Terrace",
+          "name" : "Taste of Madison",
+          "sponsor" : "Madison Festivals, Inc."
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.37939047813416, 43.07190524167864 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "1 John Nolen Dr., Madison, WI 53703",
+          "artistName" : "Rob Severson",
+          "id" : "13D",
+          "imgFileName" : "Bucky-Lloyd-Wright_Front.jpg",
+          "link" : "https://buckyonparade.com/product/bucky-lloyd-wright-2/",
+          "locationName" : "Monona Terrace Community and Convention Center - Lake Vista Café",
+          "name" : "Mascot Lloyd Wright",
+          "sponsor" : "Oak Park Place"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.38092470169067, 43.072250085649216 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "1 John Nolen Dr., Madison, WI 53703",
+          "artistName" : "Insane Paint Shop",
+          "id" : "14D",
+          "imgFileName" : "I-Am-Bucky_Front.jpg",
+          "link" : "https://buckyonparade.com/product/i-am-bucky/",
+          "locationName" : "Monona Terrace Community and Convention Center - Olin Terrace",
+          "name" : "I Am Mascot",
+          "sponsor" : ""
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.3826584, 43.0738063 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "111 Martin Luther King Jr Blvd, Madison, WI 53703",
+          "artistName" : "Savannah Guthrie",
+          "id" : "15D",
+          "imgFileName" : "Signature-Bucky_Front.jpg",
+          "link" : "https://buckyonparade.com/product/signature-bucky/",
+          "locationName" : "",
+          "name" : "Signature Mascot",
+          "sponsor" : "Madison Area Sports Commission"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.3830680, 43.0755930 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "1 N. Pinckney St.",
+          "artistName" : "Barbara Westfall",
+          "id" : "16D",
+          "imgFileName" : "Spark-a-Dream_Front.jpg",
+          "link" : "https://buckyonparade.com/product/spark-a-dream/",
+          "locationName" : "American Family DreamBank",
+          "name" : "Spark a Dream",
+          "sponsor" : "American Family Insurance"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.38286662101746, 43.07547114811726 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "1 S. Pinckney St.",
+          "artistName" : "Kathy King",
+          "id" : "17D",
+          "imgFileName" : "Animals-Need-Bucky-Too_Front.jpg",
+          "link" : "https://buckyonparade.com/product/animals-need-bucky-too/",
+          "locationName" : "Corner of East Washington and Pinckney",
+          "name" : "Animals Need Mascot Too",
+          "sponsor" : "BerbeeWalsh Foundation and Debbie Cervenka"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.38337690000002, 43.07615699999999 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "15 N. Pinckney, Madison, WI 53703",
+          "artistName" : "Paul Muckler",
+          "id" : "18D",
+          "imgFileName" : "Vintage-Gridiron_Front.jpg",
+          "link" : "https://buckyonparade.com/product/vintage-gridiron-2/",
+          "locationName" : "ESPN Madison",
+          "name" : "Vintage Gridiron",
+          "sponsor" : "Zimbrick Honda"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.38539862632751, 43.075792461363854 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "Wisconsin Ave. at East Mifflin St.",
+          "artistName" : "Hiebing",
+          "id" : "19D",
+          "imgFileName" : "When-You-Say-Wisconsin-Youve-Said-It-All_Front.jpg",
+          "link" : "https://buckyonparade.com/product/when-you-say-wisconsin-youve-said-it-all/",
+          "locationName" : "",
+          "name" : "When You Say Wisconsin, You've Said It All",
+          "sponsor" : "Hiebing"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.38497483730316, 43.07584731955464 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "2 E. Mifflin St.",
+          "artistName" : "Meghan Warren McKinney",
+          "id" : "20D",
+          "imgFileName" : "Vial-Caps-for-a-Cure_Front.jpg",
+          "link" : "https://buckyonparade.com/product/vial-caps-for-a-cure/",
+          "locationName" : "Manchester Place",
+          "name" : "Vial Caps for a Cure",
+          "sponsor" : "Garding Against Cancer"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.38731539999999, 43.073458 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "201 W. Mifflin, Madison, WI 53703",
+          "artistName" : "Kathryn Schnabel",
+          "id" : "21D",
+          "imgFileName" : "Bright-Idea-Bucky_Front.jpg",
+          "link" : "https://buckyonparade.com/product/bright-idea-bucky-2/",
+          "locationName" : "Madison Public Library - Central Branch",
+          "name" : "Bright Idea Mascot",
+          "sponsor" : "Capitol Lakes"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.38809499999999, 43.0728649 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "316 W. Washington Ave.",
+          "artistName" : "Phil Hands",
+          "id" : "22D",
+          "imgFileName" : "Black-White-and-Read-All-Over_Front.jpg",
+          "link" : "https://buckyonparade.com/product/black-white-and-read-all-over/",
+          "locationName" : "",
+          "name" : "Black, White and \"Read\" All Over",
+          "sponsor" : "Wisconsin State Journal/madison.com (changed 4/12)"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.3864423, 43.074946 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "30 W. Mifflin St., Madison, WI 53703",
+          "artistName" : "Madison Vet Center/VSA Wisconsin",
+          "id" : "23D",
+          "imgFileName" : "Full-Fatigues_Front.jpg",
+          "link" : "https://buckyonparade.com/product/full-fatigues-2/",
+          "locationName" : "Wisconsin Veterans Museum (indoor)",
+          "name" : "Full Fatigues",
+          "sponsor" : "TDS Telecom"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.39056992530823, 43.07939928287035 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "1001 Wisconsin Place, Madison, WI 53703",
+          "artistName" : "Ashley Sheridan",
+          "id" : "24D",
+          "imgFileName" : "Friday-Night-Fish-Fry_Front.jpg",
+          "link" : "https://buckyonparade.com/product/friday-night-fish-fry-2/",
+          "locationName" : "The Edgewater Hotel",
+          "name" : "Friday Night Fish Fry",
+          "sponsor" : "The Edgewater"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.38675582408905, 43.07456989465509 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "100 W. Mifflin St., Madison, WI 53703",
+          "artistName" : "Lon Michels",
+          "id" : "25D",
+          "imgFileName" : "Enlightened-Bucky_Front.jpg",
+          "link" : "https://buckyonparade.com/product/enlightened-bucky/",
+          "locationName" : "Top of State St.",
+          "name" : "Enlightened Bucky",
+          "sponsor" : "Culver's Foundation"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.38672900199889, 43.07492256063186 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "30 W. Mifflin St.",
+          "artistName" : "Matt Smith",
+          "id" : "26D",
+          "imgFileName" : "Razzle-Dazzle_Front.jpg",
+          "link" : "https://buckyonparade.com/product/razzle-dazzle-2/",
+          "locationName" : "Top of State Street",
+          "name" : "Razzle Dazzle",
+          "sponsor" : "John and Jeanne Flesch"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.3927526, 43.0749703 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "452 State St., Madison, WI 53703",
+          "artistName" : "Anne Raskopf",
+          "id" : "27D",
+          "imgFileName" : "Vintage-Postcard_Front.jpg",
+          "link" : "https://buckyonparade.com/product/vintage-postcard/",
+          "locationName" : "Peace Park",
+          "name" : "Vintage Postcard",
+          "sponsor" : "Greater Madison Convention & Visitors Bureau"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.3933663, 43.0745126 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "449 State St., Madison, WI 53703",
+          "artistName" : "Stripe",
+          "id" : "28D",
+          "imgFileName" : "Inkd-Wisconsinly_Front.jpg",
+          "link" : "https://buckyonparade.com/product/inkd-wisconsinly/",
+          "locationName" : "",
+          "name" : "Ink'd Wisconsinly",
+          "sponsor" : "Mid-West Family Broadcasting"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.39536035060883, 43.075000930573296 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "Frances St @ State St, , Madison, WI 53703",
+          "artistName" : "Aislen Kelly",
+          "id" : "29D",
+          "imgFileName" : "Madison-Traditions_Front.jpg",
+          "link" : "https://buckyonparade.com/product/madison-traditions-2/",
+          "locationName" : "Frances St. Plaza",
+          "name" : "Madison Traditions",
+          "sponsor" : "Downtown Madison Inc. and Madison's Central Business Improvement District"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.39570501446724, 43.074704103891 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "583 State St, Madison, WI 53703",
+          "artistName" : "Nicole Rosenbaum",
+          "id" : "30D",
+          "imgFileName" : "Bucky-at-the-Terrace_Front.jpg",
+          "link" : "https://buckyonparade.com/product/bucky-at-the-terrace-2/",
+          "locationName" : "Frances Street Collectivo",
+          "name" : "Mascot at the Terrace",
+          "sponsor" : "Deb, Dean and Jenna Archer"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.3956798, 43.0751419 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "604 State St., Madison, WI 53703",
+          "artistName" : "Emily Liefke",
+          "id" : "31D",
+          "imgFileName" : "Bucky-Howd-You-Get-So-FLY_Front.jpg",
+          "link" : "https://buckyonparade.com/product/bucky-howd-you-get-so-fly/",
+          "locationName" : "Urban Outfitters",
+          "name" : "Mascot How'd You Get So FLY?",
+          "sponsor" : "WHEELS UP"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.3957097, 43.0750063 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "610 State St., Madison, WI 53703",
+          "artistName" : "FAST Corporation",
+          "id" : "32D",
+          "imgFileName" : "Grateful-Red_Front.jpg",
+          "link" : "https://buckyonparade.com/product/grateful-red/",
+          "locationName" : "Under Armour",
+          "name" : "Grateful Red",
+          "sponsor" : "Under Armour Brand House"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.39585387706755, 43.07479618889017 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "603 State St., Madison, WI 53703",
+          "artistName" : "FAST Corporation",
+          "id" : "33D",
+          "imgFileName" : "1st-and-10_Front.jpg",
+          "link" : "https://buckyonparade.com/product/1st-and-10/",
+          "locationName" : "State Street Brats",
+          "name" : "1st and 10",
+          "sponsor" : "160over90"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.39769923686981, 43.07479716851709 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "711 State St., Madison, WI 53703",
+          "artistName" : "Rose Malm",
+          "id" : "34D",
+          "imgFileName" : "GameDayBucky_Front.jpg",
+          "link" : "https://buckyonparade.com/product/gamedaybucky/",
+          "locationName" : "University Book Store",
+          "name" : "#GameDayMascot",
+          "sponsor" : "University Book Store"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.41167891025543, 43.0689739895886 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "1440 Monroe Street Madison, WI 53706",
+          "artistName" : "Dan Gardiner",
+          "id" : "35U",
+          "imgFileName" : "Bucky-Alvarez_Front.jpg",
+          "link" : "https://buckyonparade.com/product/bucky-alvarez/",
+          "locationName" : "Camp Randall",
+          "name" : "Coach Mascot",
+          "sponsor" : "UW Athletics"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.4098465, 43.06918719999999 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "1429 Monroe Street, Madison, WI 53711",
+          "artistName" : "FAST Corporation",
+          "id" : "36U",
+          "imgFileName" : "",
+          "link" : "https://buckyonparade.com/product/crazylegs-bucky/",
+          "locationName" : "University of Wisconsin Police Dept. (Coming later this summer)",
+          "name" : "Crazylegs Mascot",
+          "sponsor" : "Associated Bank / Oakland On Monroe / HotelRED"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.4007408618927, 43.068785883063576 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "35 N Park St, Madison, WI 53715",
+          "artistName" : "Kim Marie",
+          "id" : "37U",
+          "imgFileName" : "We-Are-Bucky_Front.jpg",
+          "link" : "https://buckyonparade.com/product/we-are-bucky/",
+          "locationName" : "Smith Hall",
+          "name" : "We Are Wisconsin",
+          "sponsor" : "Wipfli LLP"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.39692139625548, 43.07019274912822 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "\r601 W Dayton St, Madison, WI 53703",
+          "artistName" : "Jill Iwanski",
+          "id" : "38U",
+          "imgFileName" : "And-On-Wisconsin_Front.jpg",
+          "link" : "https://buckyonparade.com/product/and-on-wisconsin-2/",
+          "locationName" : "Kohl Center",
+          "name" : "On Wisconsin!",
+          "sponsor" : "Krupp General Contractors"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.39891695976256, 43.07151337117505 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "770 W Dayton St, Madison, WI 53706",
+          "artistName" : "Dan Gardiner",
+          "id" : "39U",
+          "imgFileName" : "Pucky_Front.jpg",
+          "link" : "https://buckyonparade.com/product/pucky-2/",
+          "locationName" : "Gordon Dining & Event Center",
+          "name" : "Pucky",
+          "sponsor" : "J.H. Findorff & Son Inc."
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.39911007881165, 43.07243034422523 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "333 East Campus Mall, Madison WI 53715",
+          "artistName" : "Rob Severson",
+          "id" : "40U",
+          "imgFileName" : "Superbuck_Front.jpg",
+          "link" : "https://buckyonparade.com/product/superbuck/",
+          "locationName" : "",
+          "name" : "SuperMascot",
+          "sponsor" : "Dr. Eric teDuits\rChildren's Dental Center of Madison, S.C."
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.39894914627075, 43.07376267378029 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "750 University Ave, Madison, WI 53706",
+          "artistName" : "Julie Hustad",
+          "id" : "41U",
+          "imgFileName" : "Bucky-come-se-Picasso_Front.jpg",
+          "link" : "https://buckyonparade.com/product/bucky-come-se-picasso-2/",
+          "locationName" : "Chazen Museum of Art",
+          "name" : "Mascot come se Picasso",
+          "sponsor" : "Neider & Boucher, S.C."
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.398997426033, 43.07532224628538 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "Library Mall, Madison WI 53703",
+          "artistName" : "Hailey Polk",
+          "id" : "42U",
+          "imgFileName" : "One-Leg-Up_Front.jpg",
+          "link" : "https://buckyonparade.com/product/one-leg-up-2/",
+          "locationName" : "",
+          "name" : "One Leg Up",
+          "sponsor" : ""
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.39831346273421, 43.07594528048748 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "716 Langdon St, Madison, WI 53706",
+          "artistName" : "Brooke Wentland",
+          "id" : "43U",
+          "imgFileName" : "Baller-Bucky_Front.jpg",
+          "link" : "https://buckyonparade.com/product/baller-bucky/",
+          "locationName" : "Red Gym",
+          "name" : "Baller Mascot",
+          "sponsor" : "John C. Sheehan, '83"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.40000593662262, 43.07690137096911 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "\r800 Langdon St, Madison, WI 53706",
+          "artistName" : "Allyson Casey & Megan Breene",
+          "id" : "44U",
+          "imgFileName" : "Sunset_Front.jpg",
+          "link" : "https://buckyonparade.com/product/sunset-2/",
+          "locationName" : "Memorial Union Terrace",
+          "name" : "Sunset",
+          "sponsor" : "DeWitt Ross & Stevens S.C."
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.400864, 43.0758561 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "550 N Park St, Madison, WI 53706",
+          "artistName" : "Philip Salamone with Sarah Gerg",
+          "id" : "45U",
+          "imgFileName" : "Visible-Bucky_Front.jpg",
+          "link" : "https://buckyonparade.com/product/visible-bucky/",
+          "locationName" : "Science Hall",
+          "name" : "Visible Mascot",
+          "sponsor" : "Best Western PLUS InnTowner Madison"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.40356254577637, 43.0750714634349 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "500 Lincoln Dr, Madison, WI 53706",
+          "artistName" : "FAST Corporation",
+          "id" : "46U",
+          "imgFileName" : "Graduation-Bucky_Front.jpg",
+          "link" : "https://buckyonparade.com/product/graduation-bucky/",
+          "locationName" : "Bascom Hall",
+          "name" : "Graduation Mascot",
+          "sponsor" : ""
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.41031366586685, 43.074456257408016 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "Henry Mall, Madison WI 53706",
+          "artistName" : "Paula Hare & Diane Heatley",
+          "id" : "47U",
+          "imgFileName" : "Blooming-Bucky_Front.jpg",
+          "link" : "https://buckyonparade.com/product/blooming-bucky-2/",
+          "locationName" : "",
+          "name" : "Blooming Mascot",
+          "sponsor" : ""
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.40883040428162, 43.07663883941271 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "Observatory Drive Overlook",
+          "artistName" : "Christy Grace",
+          "id" : "48U",
+          "imgFileName" : "Celestial-Bucky_Front.jpg",
+          "link" : "https://buckyonparade.com/product/celestial-bucky/",
+          "locationName" : "",
+          "name" : "Celestial Mascot",
+          "sponsor" : ""
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.4201781, 43.0750949 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "2015 Linden Dr, Madison, WI 53706",
+          "artistName" : "Larry Schultz",
+          "id" : "49U",
+          "imgFileName" : "Americas-Badgerland_Front.jpg",
+          "link" : "https://buckyonparade.com/product/americas-badgerland-2/",
+          "locationName" : "UW Veterinary Medicine",
+          "name" : "America's Badgerland",
+          "sponsor" : "World Dairy Expo and Event Essentials"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.4252535700798, 43.07873710124251 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "702 Walnut St, Madison, 53705",
+          "artistName" : "Rachel Lyga",
+          "id" : "50U",
+          "imgFileName" : "Major-Bucky_Front.jpg",
+          "link" : "https://buckyonparade.com/product/major-bucky/",
+          "locationName" : "UW Marching Band Practice Fields",
+          "name" : "Major Mascot",
+          "sponsor" : "Mid-West Family Broadcasting"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.42874312400818, 43.084443774835364 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "2002 University Bay Dr, Madison, WI 53705",
+          "artistName" : "Angelica Contreras",
+          "id" : "51U",
+          "imgFileName" : "Goodnight-Bucky_Front.jpg",
+          "link" : "https://buckyonparade.com/product/goodnight-bucky-2/",
+          "locationName" : "Picnic Point Entry",
+          "name" : "Goodnight Mascot",
+          "sponsor" : ""
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.4318955, 43.0763217 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "600 Highland Ave, Madison, WI 53792",
+          "artistName" : "Jaroslava Sobiskova",
+          "id" : "52U",
+          "imgFileName" : "Dream-Big-Bucky_Front.jpg",
+          "link" : "https://buckyonparade.com/product/dream-big-bucky/",
+          "locationName" : "UW Hospital and Clinics",
+          "name" : "Dream Big Mascot",
+          "sponsor" : "American Family Children's Hospital"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.41745379999999, 43.0738244 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "1848 University Ave, Madison, WI 53726",
+          "artistName" : "Nicole Rosenbaum",
+          "id" : "53U",
+          "imgFileName" : "Flamingo-Bucky_Front.jpg",
+          "link" : "https://buckyonparade.com/product/flamingo-bucky-2/",
+          "locationName" : "University of Wisconsin Foundation",
+          "name" : "Flamingo Mascot",
+          "sponsor" : ""
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.4079438, 43.0718731 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "1308 W Dayton St, Madison, WI 53715",
+          "artistName" : "Jeanne Burgess",
+          "id" : "54U",
+          "imgFileName" : "Leckrones-Stop-at-the-Top_Front.jpg",
+          "link" : "https://buckyonparade.com/product/leckrones-stop-at-the-top-2/",
+          "locationName" : "Union South",
+          "name" : "Leckrone's Stop at the Top",
+          "sponsor" : "JP Cullen"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.39737737178802, 43.07698365674782 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "650 N Lake St, Madison, WI 53706",
+          "artistName" : "S. V. Medaris",
+          "id" : "55U",
+          "imgFileName" : "Retro-Bucky_Front.jpg",
+          "link" : "https://buckyonparade.com/product/retro-bucky/",
+          "locationName" : "Wisconsin Alumni Association",
+          "name" : "Retro Mascot",
+          "sponsor" : "Wisconsin Alumni Association, Wisconsin Foundation and Alumni Association"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.211049, 43.182890 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "Cannery Pl, Sun Prairie, WI 53590",
+          "artistName" : "Sara Nagreen",
+          "id" : "56E",
+          "imgFileName" : "We-All-Fit-Together_Front.jpg",
+          "link" : "https://buckyonparade.com/product/we-all-fit-together-2/",
+          "locationName" : "Cannery Square",
+          "name" : "We All Fit Together",
+          "sponsor" : "Sun Prairie Tourism Commission"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.210975, 43.183070 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "Cannery Pl, Sun Prairie, WI 53590",
+          "artistName" : "Dan Gardiner",
+          "id" : "57E",
+          "imgFileName" : "Bucky-Badger_Front.jpg",
+          "link" : "https://buckyonparade.com/product/buck-y-badger-2/",
+          "locationName" : "Cannery Square",
+          "name" : "Bucks and Mascots Oh My",
+          "sponsor" : "Hottmann Construction Company, Inc."
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.33003783226013, 43.121159073221655 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "1701 Wright Street, Madison, WI 53704",
+          "artistName" : "Jeff Dewitt",
+          "id" : "58E",
+          "imgFileName" : "Bucky-Bot_Front.jpg",
+          "link" : "https://buckyonparade.com/product/bucky-bot/",
+          "locationName" : "Madison College",
+          "name" : "Mascot Bot",
+          "sponsor" : "Madison College"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.36901569366455, 43.13171446325308 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "1625 Northport Dr.",
+          "artistName" : "Dan Gardiner",
+          "id" : "59E",
+          "imgFileName" : "Broadcaster-Bucky_Front.jpg",
+          "link" : "https://buckyonparade.com/product/broadcaster-bucky/",
+          "locationName" : "Warner Park Community Recreation Center",
+          "name" : "Broadcaster Mascot",
+          "sponsor" : "WMTV NBC15"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.38367128372192, 43.08134072680725 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "614 E. Gorham Street, Madison, WI 53703",
+          "artistName" : "Jenny Steinman Heyden",
+          "id" : "60E",
+          "imgFileName" : "Sunburst_Front.jpg",
+          "link" : "https://buckyonparade.com/product/sunburst/",
+          "locationName" : "James Madison Park",
+          "name" : "Sunburst",
+          "sponsor" : ""
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.37533497810364, 43.07645467481385 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "S. Blair St. at Williamson St.",
+          "artistName" : "Amy Mietzel",
+          "id" : "61E",
+          "imgFileName" : "Between-the-Lakes_Front.jpg",
+          "link" : "https://buckyonparade.com/product/between-the-lakes-2/",
+          "locationName" : "Blair Street Gardens",
+          "name" : "Between the Lakes",
+          "sponsor" : "The QTI Group & Stone House Development"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.36577558517456, 43.084302730607384 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "202 S. Ingersoll St., Madison, WI 53703",
+          "artistName" : "Jaroslava Sobiskova",
+          "id" : "62E",
+          "imgFileName" : "Music-Man_Front.jpg",
+          "link" : "https://buckyonparade.com/product/music-man/",
+          "locationName" : "McPike Park",
+          "name" : "Music Man",
+          "sponsor" : "The William, Deborah, Kelly and Colleen Flesch Family"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.3519405, 43.0923386 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "2089 Atwood Avenue, Madison, WI 53704",
+          "artistName" : "Jennifer Estelle Schwarzkopf",
+          "id" : "63E",
+          "imgFileName" : "Bucky-de-los-Muertos_Front.jpg",
+          "link" : "https://buckyonparade.com/product/bucky-de-los-muertos-2/",
+          "locationName" : "Monty's Blue Plate Diner",
+          "name" : "Mascot de los Muertos",
+          "sponsor" : ""
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.3436674, 43.0967271 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "149 Waubesa St, Madison, WI 53704",
+          "artistName" : "Roxanne Robinson",
+          "id" : "64E",
+          "imgFileName" : "Our-Hearts-Belong-to-Bucky_Front.jpg",
+          "link" : "https://buckyonparade.com/product/our-hearts-belong-to-bucky/",
+          "locationName" : "Goodman Community Center",
+          "name" : "Our Mascot",
+          "sponsor" : ""
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.3358951, 43.0924056 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "3330 Atwood Ave, Madison, WI 53704",
+          "artistName" : "Emmalee Pearson",
+          "id" : "65E",
+          "imgFileName" : "Grow_Front.jpg",
+          "link" : "https://buckyonparade.com/product/grow/",
+          "locationName" : "Olbrich Botanical Gardens",
+          "name" : "Grow",
+          "sponsor" : "Madison College"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.33586359024048, 43.09149557219677 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "3527 Atwood Ave, Madison, WI 53714",
+          "artistName" : "Brooke Weiland & Evan Schultz",
+          "id" : "66E",
+          "imgFileName" : "Hip-Buckster_Front.jpg",
+          "link" : "https://buckyonparade.com/product/hip-buckster/",
+          "locationName" : "Olbrich Park",
+          "name" : "Hip Mascotster",
+          "sponsor" : "Adams Outdoor Advertising"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.334025, 43.07211299999999 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "4511 Winnequah Rd, Monona, WI 53716",
+          "artistName" : "Brenda Joyce & Lexi Heiser",
+          "id" : "67E",
+          "imgFileName" : "Its-Always-Construction-Season_Front.jpg",
+          "link" : "https://buckyonparade.com/product/its-always-construction-season/",
+          "locationName" : "Schluter Park",
+          "name" : "It's Always Construction Season!",
+          "sponsor" : "Homburg Companies"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.34256374835968, 43.06358529283891 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "5211 Schluter Road Monona, WI 53716",
+          "artistName" : "Julie Hancock",
+          "id" : "68E",
+          "imgFileName" : "Farmer-Bucky_Front.jpg",
+          "link" : "https://buckyonparade.com/product/farmer-bucky/",
+          "locationName" : "Winnequah Park",
+          "name" : "Farmer Mascot",
+          "sponsor" : "Lycon"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.38731790000001, 43.0532554 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "325 W Olin Ave, Madison, WI 53715",
+          "artistName" : "FAST Corporation",
+          "id" : "69E",
+          "imgFileName" : "Bucky-in-Bearadise_Front.jpg",
+          "link" : "https://buckyonparade.com/product/bucky-in-bearadise/",
+          "locationName" : "Goodman Pool",
+          "name" : "Mascot in Bearadise",
+          "sponsor" : "Three Bears Resort"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.37575340270996, 43.05489575651978 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "1156 Olin-Turville Ct, Madison, 53715",
+          "artistName" : "Brooke Wentland",
+          "id" : "70E",
+          "imgFileName" : "It-Takes-Two-Wheels_Front.jpg",
+          "link" : "https://buckyonparade.com/product/it-takes-two-wheels-2/",
+          "locationName" : "Olin Park",
+          "name" : "It Takes Two Wheels",
+          "sponsor" : ""
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.38432574272156, 43.06819020859252 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "John Nolen Dr. at S. Broom St. (lakeside)",
+          "artistName" : "Richard Yanke",
+          "id" : "71E",
+          "imgFileName" : "Strike-up-the-Band_Front.jpg",
+          "link" : "https://buckyonparade.com/product/strike-up-the-band-2/",
+          "locationName" : "Capital City Trail",
+          "name" : "Strike up the Band",
+          "sponsor" : "Exact Sciences"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.39918518066406, 43.06302876044269 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "829 W Washington Ave, Madison WI 53715",
+          "artistName" : "Tom Queoff",
+          "id" : "72W",
+          "imgFileName" : "Rugby-Bucky_Front.jpg",
+          "link" : "https://buckyonparade.com/product/rugby-bucky/",
+          "locationName" : "Brittingham Park",
+          "name" : "Rugby Mascot",
+          "sponsor" : "Clan Buchanan"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.38958287239075, 43.064310345072286 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "150 N. Shore Dr.",
+          "artistName" : "Dan Gardiner",
+          "id" : "73W",
+          "imgFileName" : "Bucky-on-Ice_Front.jpg",
+          "link" : "https://buckyonparade.com/product/bucky-on-ice-2/",
+          "locationName" : "Brittingham Boathouse",
+          "name" : "Mascot on Ice",
+          "sponsor" : "WMTV NBC15"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.41004812717438, 43.05972081575053 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "702 South Randall Ave, Madison, WI 53715",
+          "artistName" : "Anne Raskopf",
+          "id" : "74W",
+          "imgFileName" : "Pieces-Of-Wisconsin_Front.jpg",
+          "link" : "https://buckyonparade.com/product/pieces-of-wisconsin/",
+          "locationName" : "Henry Vilas Zoo",
+          "name" : "Pieces of Wisconsin",
+          "sponsor" : "The Madison Concourse Hotel and Governor's Club (changed 4/13)"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.3952894, 43.0412025 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "2300 South Park Street, Madison, WI 53713",
+          "artistName" : "Ann Pahnke",
+          "id" : "75W",
+          "imgFileName" : "All-Hands-on-Bucky_Front.jpg",
+          "link" : "https://buckyonparade.com/product/all-hands-on-bucky-2/",
+          "locationName" : "Villager Shopping Center",
+          "name" : "All Hands on Mascot",
+          "sponsor" : "CUNA Mutual Group"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.4239343, 43.0052527 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "5511 E. Cheryl Parkway, Fitchburg, WI 53711",
+          "artistName" : "Christy Grace",
+          "id" : "76W",
+          "imgFileName" : "BioTech-Bucky_Front.jpg",
+          "link" : "https://buckyonparade.com/product/biotech-bucky/",
+          "locationName" : "Agora at Fitchburg Center",
+          "name" : "BioTech Mascot",
+          "sponsor" : "Fitchburg Community & Economic Development Authority"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.43219169999999, 43.0114206 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "2930 Chapel Valley Rd, Fitchburg, WI 53711",
+          "artistName" : "Karen Hitchcock",
+          "id" : "77W",
+          "imgFileName" : "Bike-the-Burg-Bucky_Front.jpg",
+          "link" : "https://buckyonparade.com/product/bike-the-burg-bucky/",
+          "locationName" : "McKee Farms Park",
+          "name" : "Bike the 'Burg Mascot",
+          "sponsor" : "Fitchburg Chamber Visitor + Business Bureau"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.5089332, 42.9691623 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "1079 American Way, Verona, WI 53593",
+          "artistName" : "Stephanie Smiley",
+          "id" : "78W",
+          "imgFileName" : "Border-Battle_Front.jpg",
+          "link" : "https://buckyonparade.com/product/border-battle/",
+          "locationName" : "Wisconsin Brewing Company",
+          "name" : "Border Battle",
+          "sponsor" : "Kathy and Guy Gottschalk"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.5432654, 43.0234689 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "9002 County Road PD, Madison, WI 53593",
+          "artistName" : "FAST Corporation",
+          "id" : "79W",
+          "imgFileName" : "The-Long-Drive-Dominator_Front.jpg",
+          "link" : "https://buckyonparade.com/product/the-long-drive-dominator/",
+          "locationName" : "University Ridge",
+          "name" : "The Long Drive Dominator",
+          "sponsor" : "Vitense Golfland"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.52789902687073, 43.09143289312966 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "1650 Deming Way, Middleton, WI 53562",
+          "artistName" : "Kim Marie",
+          "id" : "80W",
+          "imgFileName" : "Funky-Buckingham_Front.jpg",
+          "link" : "https://buckyonparade.com/product/funky-buckingham-2/",
+          "locationName" : "Greenway Station",
+          "name" : "Funky Buckingham",
+          "sponsor" : "Greenway Station Shopping Center"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.509292, 43.095478 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "7426 Hubbard Ave, Middleton, WI 53562",
+          "artistName" : "Erica Vetrovec",
+          "id" : "81W",
+          "imgFileName" : "Bucky-the-Builder_Front.jpg",
+          "link" : "https://buckyonparade.com/product/bucky-the-builder/",
+          "locationName" : "Downtown Middleton",
+          "name" : "Mascot the Builder",
+          "sponsor" : "Dave Jones, Inc."
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.48674321174622, 43.0980686832317 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "6300 Mendota Ave, Middleton, WI 53562",
+          "artistName" : "Danica Harrier",
+          "id" : "82W",
+          "imgFileName" : "Work-Safe-Bucky_Front.jpg",
+          "link" : "https://buckyonparade.com/product/work-safe-bucky-2/",
+          "locationName" : "Lakeview Park",
+          "name" : "Work Safe Mascot",
+          "sponsor" : "Tri-North Builders, Inc."
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.45246458053589, 43.071576070624005 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "726 N Midvale Blvd, Madison, WI 53705",
+          "artistName" : "Karen Lorraine Singer",
+          "id" : "83W",
+          "imgFileName" : "Jump-Around-Bucky_Front.jpg",
+          "link" : "https://buckyonparade.com/product/jump-around-bucky/",
+          "locationName" : "Hilldale Shopping Center",
+          "name" : "Jumping Mascot",
+          "sponsor" : "The Great Dane Pub & Brewing Company"
+        },
+        "type" : "Feature"
+      }, {
+        "geometry" : {
+          "coordinates" : [ -89.45224463939667, 43.074119262953495 ],
+          "type" : "Point"
+        },
+        "properties" : {
+          "address" : "726 N Midvale Blvd, Madison, WI 53705",
+          "artistName" : "Savannah Guthrie",
+          "id" : "84W",
+          "imgFileName" : "Bucky-in-Red_Front.jpg",
+          "link" : "https://buckyonparade.com/product/bucky-in-red/",
+          "locationName" : "Hilldale Shopping Center",
+          "name" : "Mascot in Red",
+          "sponsor" : ""
+        },
+        "type" : "Feature"
+      }]}
