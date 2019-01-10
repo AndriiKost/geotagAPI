@@ -1,0 +1,11 @@
+{
+  "name": "geotagapi",
+  "version": "1.0.0",
+  "description": "API for Geolocation Tagging Applications build by Andrii Kost @ Delian Digital",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
